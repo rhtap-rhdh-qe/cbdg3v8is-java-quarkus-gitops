@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cbdg3v8is-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/cbdg3v8is-java-quarkus
